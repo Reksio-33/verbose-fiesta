@@ -1,2 +1,3 @@
 nasz teksst
 druga linia
+trzecia linia
