@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+
+void(){
+    cout<<"commit";
+}
+int(main){
+    fn1();
+    return 0;
+}
